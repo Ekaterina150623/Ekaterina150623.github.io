@@ -1,17 +1,17 @@
 body {
-    background-color: #ffe6f2;
+    background-color: #f0fff4;
     font-family: Arial, sans-serif;
     padding: 20px;
 }
 
 h1 {
-    color: #d63384;
+    color: #166534;
     text-align: center;
 }
 
 h2 {
-    color: #e91e63;
-    background-color: #ffccdd;
+    color: #166534;
+    background-color: #dcfce7;
     padding: 8px 12px;
     border-radius: 5px;
 }
@@ -24,7 +24,7 @@ img {
 }
 
 a {
-    color: #c2185b;
+    color: #16a34a;
     text-decoration: none;
 }
 
